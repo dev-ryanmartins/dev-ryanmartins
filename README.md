@@ -1,69 +1,109 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=34&pause=1000&color=00D4FF&center=true&vCenter=true&width=750&lines=Ryan+Henri+Nunes+Martins;Desenvolvedor+Full+Stack;Estagi%C3%A1rio+de+T.I.;Estudante+de+ADS+na+UNISO;Construindo+solu%C3%A7%C3%B5es+com+tecnologia+%F0%9F%9A%80" alt="Typing SVG" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:050508,35:0d1117,65:00d4ff,100:6dd5fa&text=RYAN%20HENRI&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20Full%20Stack%20•%20Estagiário%20de%20T.I.%20•%20UNISO&descAlignY=58"/>
 
-<br/>
+<br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050508,100:00d4ff&height=120&section=header"/>
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=30&duration=3000&pause=1200&color=00D4FF&center=true&vCenter=true&random=false&width=850&lines=Olá%2C+eu+sou+Ryan+Henri+👋;Desenvolvedor+Full+Stack;Interfaces+modernas+e+elegantes;Node.js+•+React+•+TypeScript;Construindo+projetos+com+identidade+🚀" />
+
+<br>
+
+<img src="https://img.shields.io/github/followers/dev-ryanmartins?style=for-the-badge&logo=github&color=00d4ff&labelColor=050508"/>
+<img src="https://img.shields.io/github/stars/dev-ryanmartins?style=for-the-badge&logo=github&color=00d4ff&labelColor=050508"/>
+<img src="https://komarev.com/ghpvc/?username=dev-ryanmartins&style=for-the-badge&color=00d4ff&label=VISUALIZAÇÕES"/>
+
+<br><br>
+
+<a href="https://www.linkedin.com/in/henri-martins-153341389/">
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/dev-ryanmartins">
+<img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:ryanhenri085@outlook.com">
+<img src="https://img.shields.io/badge/OUTLOOK-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/>
+</a>
+
+<a href="https://wa.me/5515996896979">
+<img src="https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
 
 </div>
 
-# 👨‍💻 Ryan Henri Nunes Martins
+---
+
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> Sobre mim
 
 ```ts
-const ryan = {
-  formação: "Técnico em Farmácia — ETEC",
-  faculdade: "ADS — UNISO",
-  cargo: "Estagiário de T.I. — Prefeitura de Capela do Alto",
-  foco: "Desenvolvimento Full Stack",
-  inícioNaProgramação: 2024,
-  tecnologias: [
-    "React",
-    "Node.js",
-    "TypeScript",
-    "PostgreSQL",
-    "Python"
-  ],
-  objetivo: "Criar sistemas modernos, funcionais e intuitivos."
+class RyanHenri {
+  nome        = "Ryan Henri Nunes Martins";
+  formação    = "Técnico em Farmácia — ETEC";
+  faculdade   = "ADS — UNISO";
+  cargo       = "Estagiário de T.I.";
+  empresa     = "Prefeitura de Capela do Alto";
+
+  foco = [
+    "Desenvolvimento Full Stack",
+    "UI/UX Moderna",
+    "APIs",
+    "Banco de Dados",
+    "Interfaces Elegantes"
+  ];
+
+  tecnologias = {
+    frontEnd: ["React", "TypeScript", "TailwindCSS"],
+    backEnd: ["Node.js", "Python"],
+    database: ["PostgreSQL"],
+    ferramentas: ["Git", "GitHub"]
+  };
+
+  status = "Construindo projetos e evoluindo diariamente 🚀";
 }
 ```
 
----
+<div align="center">
 
-# 🚀 Sobre mim
+<img src="https://github-profile-trophy.vercel.app/?username=dev-ryanmartins&theme=algolia&no-frame=true&row=1&column=6&margin-w=8&margin-h=8"/>
 
-Minha trajetória na tecnologia começou de forma diferente da maioria.
-
-Antes da programação, me formei como **Técnico em Farmácia pela ETEC**, experiência que desenvolveu em mim precisão, responsabilidade e atenção aos detalhes — características que hoje aplico diretamente no desenvolvimento de software.
-
-Em **2024**, descobri a programação e mergulhei completamente na área de tecnologia. Atualmente atuo como **Estagiário de T.I. na Prefeitura de Capela do Alto** e curso **Análise e Desenvolvimento de Sistemas na UNISO**.
-
-Tenho grande interesse em:
-- Desenvolvimento Full Stack
-- Interfaces modernas e responsivas
-- Experiência do usuário (UI/UX)
-- Sistemas escaláveis
-- APIs e banco de dados
-- Projetos com identidade visual forte
+</div>
 
 ---
 
-# 🛠️ Stack Tecnológica
+# ⚡ Minha Jornada
+
+> Minha entrada na tecnologia começou de uma forma diferente da maioria.
+
+Antes da programação, me formei como **Técnico em Farmácia pela ETEC**, experiência que desenvolveu em mim disciplina, precisão e atenção aos detalhes.
+
+Em **2024**, descobri a programação e mergulhei totalmente na área de desenvolvimento. Desde então venho criando projetos modernos, estudando constantemente e evoluindo como desenvolvedor full stack.
+
+Hoje atuo como:
+
+- 💼 **Estagiário de T.I. — Prefeitura de Capela do Alto**
+- 🎓 **Estudante de ADS — UNISO**
+- 🚀 **Desenvolvedor focado em aplicações modernas e escaláveis**
+
+---
+
+# 🛠️ Tecnologias & Ferramentas
 
 <div align="center">
 
-![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=339933)
-![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB)
+<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,html,css,tailwind,postgres,git,github,vscode&theme=dark"/>
 
-![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
+</div>
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=4169E1)
-![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032)
+<br>
+
+<div align="center">
+
+| Front-End | Back-End | Banco de Dados | Ferramentas |
+|---|---|---|---|
+| React | Node.js | PostgreSQL | Git |
+| TypeScript | Python | SQL | GitHub |
+| TailwindCSS | APIs REST | Firebase | VSCode |
 
 </div>
 
@@ -73,49 +113,79 @@ Tenho grande interesse em:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dev-ryanmartins&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050508&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dev-ryanmartins&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-ryanmartins&layout=compact&theme=tokyonight&hide_border=true&bg_color=050508&title_color=00d4ff&text_color=ffffff&langs_count=8"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=dev-ryanmartins&theme=tokyonight&hide_border=true&background=050508&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-ryanmartins&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d4ff&text_color=ffffff&langs_count=8"/>
 
 </div>
 
----
-
-# 🌐 Contato
+<br>
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/henri-martins-153341389/)
-
-[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dev-ryanmartins)
-
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-0D1117?style=for-the-badge&logo=whatsapp&logoColor=25D366)](https://wa.me/5515996896979)
-
-[![Outlook](https://img.shields.io/badge/Outlook-0D1117?style=for-the-badge&logo=microsoftoutlook&logoColor=0078D4)](mailto:ryanhenri085@outlook.com)
+<img width="70%" src="https://streak-stats.demolab.com?user=dev-ryanmartins&theme=tokyonight&hide_border=true&background=0D1117&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff"/>
 
 </div>
 
 ---
 
+# 🚀 Projetos em Destaque
+
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=dev-ryanmartins&color=00d4ff&style=for-the-badge&label=VISITAS"/>
-
-<br/>
-<br/>
-
-### 🚀 Atualmente aberto para oportunidades e novos projetos
+<a href="https://github.com/dev-ryanmartins/RedeVita-PJT">
+<img width="420em" src="https://github-readme-stats.vercel.app/api/pin/?username=dev-ryanmartins&repo=RedeVita-PJT&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d4ff&text_color=ffffff"/>
+</a>
 
 </div>
 
+---
+
+# 🌌 Atividade
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,100:050508&height=120&section=footer"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=dev-ryanmartins&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff&area=true&hide_border=true"/>
+
+</div>
+
+---
+
+# 🎯 Objetivos
+
+```yaml
+2026:
+  - Evoluir como desenvolvedor full stack
+  - Criar projetos com identidade forte
+  - Trabalhar com tecnologias modernas
+  - Contribuir em projetos reais
+  - Aprender mais sobre arquitetura e performance
+```
+
+---
+
+# 🌐 Vamos nos conectar
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/henri-martins-153341389/">
+<img src="https://img.shields.io/badge/LinkedIn-00d4ff?style=for-the-badge&logo=linkedin&logoColor=black"/>
+</a>
+
+<a href="mailto:ryanhenri085@outlook.com">
+<img src="https://img.shields.io/badge/Email-00d4ff?style=for-the-badge&logo=gmail&logoColor=black"/>
+</a>
+
+<a href="https://github.com/dev-ryanmartins">
+<img src="https://img.shields.io/badge/GitHub-00d4ff?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:050508,35:0d1117,65:00d4ff,100:6dd5fa"/>
 
 </div>
