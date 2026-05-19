@@ -1,10 +1,15 @@
-<div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:050508,40:0d1117,75:00d4ff,100:89f7fe&text=RYAN%20HENRI&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER%20•%20ADS%20UNISO&descAlignY=60"/>
+  <div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:050508,35:0D1117,70:00D4FF,100:89f7fe&text=HENRI%20MARTINS&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER%20•%20ADS%20UNISO&descAlignY=60"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=32&pause=1200&color=00D4FF&center=true&vCenter=true&width=900&lines=Olá%2C+eu+sou+Ryan+Henri+👋;Desenvolvedor+Full+Stack;Criando+interfaces+modernas+e+elegantes;React+•+Node.js+•+TypeScript;Construindo+experiências+digitais+🚀"/>
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=30&pause=1200&color=00D4FF&center=true&vCenter=true&width=900&lines=Olá%2C+eu+sou+Henri+Martins+👋;Desenvolvedor+Full+Stack;Criando+interfaces+modernas+e+elegantes;React+•+Node.js+•+TypeScript;Transformando+ideias+em+experiências+digitais+🚀"/>
+
+<br><br>
+
+<img width="100%" src="https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=1600&auto=format&fit=crop"/>
 
 <br><br>
 
@@ -26,24 +31,19 @@
 
 <br><br>
 
-<img src="https://img.shields.io/github/followers/dev-ryanmartins?style=for-the-badge&logo=github&label=Followers&color=00d4ff&labelColor=0D1117"/>
-<img src="https://komarev.com/ghpvc/?username=dev-ryanmartins&style=for-the-badge&color=00d4ff&label=Visualizações"/>
+<img src="https://img.shields.io/github/followers/dev-ryanmartins?style=for-the-badge&logo=github&label=SEGUIDORES&color=00d4ff&labelColor=0D1117"/>
+
+<img src="https://komarev.com/ghpvc/?username=dev-ryanmartins&style=for-the-badge&color=00d4ff&label=VISUALIZAÇÕES"/>
 
 </div>
 
 ---
 
-# <img src="https://cdn-icons-png.flaticon.com/512/1006/1006363.png" width="28"/> Sobre mim
-
-<div align="center">
-
-<table>
-<tr>
-<td width="58%" valign="top">
+# 💻 Sobre mim
 
 ```ts
-const ryan = {
-  nome: "Ryan Henri Nunes Martins",
+const henri = {
+  nome: "Henri Martins",
 
   formação: [
     "Técnico em Farmácia — ETEC",
@@ -55,8 +55,8 @@ const ryan = {
   foco: [
     "Full Stack",
     "UI/UX",
-    "Sistemas Modernos",
-    "Interfaces Elegantes"
+    "Interfaces Modernas",
+    "Sistemas Escaláveis"
   ],
 
   stack: {
@@ -220,20 +220,16 @@ Em **2024**, descobri a programação e mergulhei completamente na área de tecn
 <img src="https://img.shields.io/badge/WhatsApp-00d4ff?style=for-the-badge&logo=whatsapp&logoColor=black"/>
 </a>
 
-</div>
+<div align="center">
+
+### 🚀 Sempre evoluindo, criando e transformando ideias em experiências digitais.
 
 <br>
-
-<div align="center">
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 
-</div>
+<br><br>
 
-<br>
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=0:050508,40:0d1117,75:00d4ff,100:89f7fe"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=0:050508,35:0D1117,70:00D4FF,100:89f7fe"/>
 
 </div>
