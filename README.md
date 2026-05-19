@@ -1,43 +1,39 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:000000,25:050508,55:00D4FF,100:00F7FF&text=RYAN%20HENRI&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER%20•%20UI/UX%20•%20UNISO&descAlignY=60"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:050508,40:0d1117,75:00d4ff,100:89f7fe&text=RYAN%20HENRI&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER%20•%20ADS%20UNISO&descAlignY=60"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=950&lines=%3E+Inicializando+sistema...;%3E+Bem-vindo+ao+meu+perfil+GitHub;%3E+Ryan+Henri+•+Full+Stack+Developer;%3E+React+•+Node.js+•+TypeScript;%3E+Construindo+interfaces+modernas+🚀"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/STATUS-ONLINE-00ff99?style=for-the-badge&labelColor=000000"/>
-<img src="https://img.shields.io/github/followers/dev-ryanmartins?style=for-the-badge&logo=github&label=FOLLOWERS&color=00F7FF&labelColor=000000"/>
-<img src="https://komarev.com/ghpvc/?username=dev-ryanmartins&style=for-the-badge&color=00F7FF&label=VISITAS"/>
-<img src="https://img.shields.io/badge/FOCO-FULLSTACK-00F7FF?style=for-the-badge&labelColor=000000"/>
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=32&pause=1200&color=00D4FF&center=true&vCenter=true&width=900&lines=Olá%2C+eu+sou+Ryan+Henri+👋;Desenvolvedor+Full+Stack;Criando+interfaces+modernas+e+elegantes;React+•+Node.js+•+TypeScript;Construindo+experiências+digitais+🚀"/>
 
 <br><br>
 
 <a href="https://github.com/dev-ryanmartins">
-<img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=00F7FF"/>
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00d4ff"/>
 </a>
 
 <a href="https://www.linkedin.com/in/henri-martins-153341389/">
-<img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=00F7FF"/>
+<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00d4ff"/>
 </a>
 
 <a href="mailto:ryanhenri085@outlook.com">
-<img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=00F7FF"/>
+<img src="https://img.shields.io/badge/Outlook-0D1117?style=for-the-badge&logo=microsoftoutlook&logoColor=00d4ff"/>
 </a>
 
 <a href="https://wa.me/5515996896979">
-<img src="https://img.shields.io/badge/WHATSAPP-000000?style=for-the-badge&logo=whatsapp&logoColor=00F7FF"/>
+<img src="https://img.shields.io/badge/WhatsApp-0D1117?style=for-the-badge&logo=whatsapp&logoColor=00d4ff"/>
 </a>
+
+<br><br>
+
+<img src="https://img.shields.io/github/followers/dev-ryanmartins?style=for-the-badge&logo=github&label=Followers&color=00d4ff&labelColor=0D1117"/>
+<img src="https://komarev.com/ghpvc/?username=dev-ryanmartins&style=for-the-badge&color=00d4ff&label=Visualizações"/>
 
 </div>
 
 ---
 
-# ```console
-> whoami
-```
+# <img src="https://cdn-icons-png.flaticon.com/512/1006/1006363.png" width="28"/> Sobre mim
 
 <div align="center">
 
@@ -46,26 +42,24 @@
 <td width="58%" valign="top">
 
 ```ts
-class RyanHenri {
+const ryan = {
+  nome: "Ryan Henri Nunes Martins",
 
-  nome = "Ryan Henri Nunes Martins";
+  formação: [
+    "Técnico em Farmácia — ETEC",
+    "ADS — UNISO"
+  ],
 
-  formação = {
-    técnico: "Técnico em Farmácia — ETEC",
-    graduação: "ADS — UNISO"
-  };
+  trabalho: "Estagiário de T.I.",
 
-  trabalho = "Estagiário de T.I.";
-
-  foco = [
+  foco: [
     "Full Stack",
     "UI/UX",
     "Sistemas Modernos",
-    "Cyber Design",
-    "Experiência do Usuário"
-  ];
+    "Interfaces Elegantes"
+  ],
 
-  stack = {
+  stack: {
     frontend: [
       "React",
       "TypeScript",
@@ -77,20 +71,18 @@ class RyanHenri {
       "Python"
     ],
 
-    banco: [
+    database: [
       "PostgreSQL"
     ]
-  };
-
-  status = "Evoluindo diariamente 🚀";
-}
+  }
+};
 ```
 
 </td>
 
 <td width="42%" align="center">
 
-<img height="280" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
+<img width="100%" src="https://images.unsplash.com/photo-1515879218367-8466d910aaa4?q=80&w=1200&auto=format&fit=crop"/>
 
 </td>
 </tr>
@@ -100,31 +92,25 @@ class RyanHenri {
 
 ---
 
-# ```bash
-> trajetória.sh
-```
+# <img src="https://cdn-icons-png.flaticon.com/512/906/906324.png" width="28"/> Minha trajetória
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=dev-ryanmartins&theme=algolia&no-frame=true&row=1&column=7&margin-w=12&margin-h=12"/>
+<img src="https://github-profile-trophy.vercel.app/?username=dev-ryanmartins&theme=algolia&no-frame=true&row=1&column=6&margin-w=10"/>
 
 </div>
 
 <br>
 
-```diff
-+ Técnico em Farmácia pela ETEC
-+ Descobriu programação em 2024
-+ Estagiário de T.I.
-+ Estudante de ADS na UNISO
-+ Desenvolvedor focado em aplicações modernas
-```
+> Minha entrada na tecnologia começou fora da programação.
+
+Antes de atuar com desenvolvimento, me formei como **Técnico em Farmácia pela ETEC**, experiência que me trouxe disciplina, atenção aos detalhes e responsabilidade.
+
+Em **2024**, descobri a programação e mergulhei completamente na área de tecnologia. Hoje busco criar aplicações modernas, funcionais e visualmente impactantes.
 
 ---
 
-# ```yaml
-stack_tecnológica:
-```
+# <img src="https://cdn-icons-png.flaticon.com/512/2721/2721297.png" width="28"/> Tecnologias
 
 <div align="center">
 
@@ -136,58 +122,23 @@ stack_tecnológica:
 
 <div align="center">
 
-<table>
-<tr>
-
-<td align="center" width="250">
-
-## ⚡ Front-End
-
-React  
-TypeScript  
-TailwindCSS  
-HTML5  
-CSS3  
-
-</td>
-
-<td align="center" width="250">
-
-## 🚀 Back-End
-
-Node.js  
-Python  
-REST APIs  
-Express  
-
-</td>
-
-<td align="center" width="250">
-
-## 🛢 Banco de Dados
-
-PostgreSQL  
-MySQL  
-Firebase  
-
-</td>
-
-</tr>
-</table>
+| Front-End | Back-End | Banco de Dados | Ferramentas |
+|---|---|---|---|
+| React | Node.js | PostgreSQL | Git |
+| TypeScript | Python | Firebase | GitHub |
+| TailwindCSS | APIs REST | MySQL | VSCode |
 
 </div>
 
 ---
 
-# ```ini
-[ github_stats ]
-```
+# <img src="https://cdn-icons-png.flaticon.com/512/1828/1828919.png" width="28"/> Estatísticas
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dev-ryanmartins&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&title_color=00F7FF&icon_color=00F7FF&text_color=ffffff&count_private=true"/>
+<img height="185em" src="https://github-readme-stats.vercel.app/api?username=dev-ryanmartins&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-ryanmartins&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000&title_color=00F7FF&text_color=ffffff"/>
+<img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-ryanmartins&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d4ff&text_color=ffffff"/>
 
 </div>
 
@@ -195,102 +146,78 @@ Firebase
 
 <div align="center">
 
-<img width="75%" src="https://streak-stats.demolab.com?user=dev-ryanmartins&theme=tokyonight&hide_border=true&background=000000&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF"/>
+<img width="75%" src="https://streak-stats.demolab.com?user=dev-ryanmartins&theme=tokyonight&hide_border=true&background=0D1117&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff"/>
 
 </div>
 
 ---
 
-# ```css
-/* activity_graph.css */
-```
+# <img src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" width="28"/> Contribuições
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=dev-ryanmartins&bg_color=000000&color=00F7FF&line=00F7FF&point=FFFFFF&area=true&hide_border=true"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=dev-ryanmartins&bg_color=0D1117&color=00d4ff&line=00d4ff&point=ffffff&area=true&hide_border=true"/>
 
 </div>
 
 ---
 
-# ```json
-{
-  "featured_project": "RedeVita"
-}
-```
+# <img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" width="28"/> Projeto em destaque
 
 <div align="center">
 
 <a href="https://github.com/dev-ryanmartins/RedeVita-PJT">
-<img width="450em" src="https://github-readme-stats.vercel.app/api/pin/?username=dev-ryanmartins&repo=RedeVita-PJT&theme=tokyonight&hide_border=true&bg_color=000000&title_color=00F7FF&text_color=FFFFFF"/>
+<img width="460em" src="https://github-readme-stats.vercel.app/api/pin/?username=dev-ryanmartins&repo=RedeVita-PJT&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d4ff&text_color=ffffff"/>
 </a>
 
 </div>
 
 ---
 
-# ```python
-while coding:
-```
+# <img src="https://cdn-icons-png.flaticon.com/512/2166/2166823.png" width="28"/> Ambiente
 
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://img.shields.io/badge/Windows_11-0D1117?style=for-the-badge&logo=windows&logoColor=00d4ff"/>
+<img src="https://img.shields.io/badge/VS_Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=00d4ff"/>
+<img src="https://img.shields.io/badge/PowerShell-0D1117?style=for-the-badge&logo=powershell&logoColor=00d4ff"/>
+<img src="https://img.shields.io/badge/Dark_Mode-0D1117?style=for-the-badge&logo=github&logoColor=00d4ff"/>
 
 </div>
 
 ---
 
-# ```cmd
-> system_info
-```
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/OS-Windows_11-000000?style=for-the-badge&logo=windows&logoColor=00F7FF"/>
-<img src="https://img.shields.io/badge/EDITOR-VS_CODE-000000?style=for-the-badge&logo=visualstudiocode&logoColor=00F7FF"/>
-<img src="https://img.shields.io/badge/TERMINAL-POWERSHELL-000000?style=for-the-badge&logo=powershell&logoColor=00F7FF"/>
-<img src="https://img.shields.io/badge/THEME-HACKER_STYLE-000000?style=for-the-badge&logo=hackthebox&logoColor=00F7FF"/>
-
-</div>
-
----
-
-# ```yaml
-mission_2026:
-```
+# <img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" width="28"/> Objetivos
 
 ```yaml
-- Evoluir como Full Stack
-- Criar projetos memoráveis
-- Trabalhar com sistemas grandes
-- Aprender arquitetura de software
-- Desenvolver interfaces absurdamente bonitas
-- Construir projetos com identidade própria
+2026:
+  - Evoluir como desenvolvedor Full Stack
+  - Criar sistemas modernos e escaláveis
+  - Melhorar cada vez mais meu design UI/UX
+  - Participar de projetos grandes
+  - Construir aplicações impactantes
 ```
 
 ---
 
-# ```terminal
-> connect_with_me
-```
+# <img src="https://cdn-icons-png.flaticon.com/512/726/726623.png" width="28"/> Vamos nos conectar
 
 <div align="center">
 
 <a href="https://github.com/dev-ryanmartins">
-<img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=00F7FF"/>
+<img src="https://img.shields.io/badge/GitHub-00d4ff?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
 
 <a href="https://www.linkedin.com/in/henri-martins-153341389/">
-<img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=00F7FF"/>
+<img src="https://img.shields.io/badge/LinkedIn-00d4ff?style=for-the-badge&logo=linkedin&logoColor=black"/>
 </a>
 
 <a href="mailto:ryanhenri085@outlook.com">
-<img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=00F7FF"/>
+<img src="https://img.shields.io/badge/Outlook-00d4ff?style=for-the-badge&logo=microsoftoutlook&logoColor=black"/>
 </a>
 
 <a href="https://wa.me/5515996896979">
-<img src="https://img.shields.io/badge/WHATSAPP-000000?style=for-the-badge&logo=whatsapp&logoColor=00F7FF"/>
+<img src="https://img.shields.io/badge/WhatsApp-00d4ff?style=for-the-badge&logo=whatsapp&logoColor=black"/>
 </a>
 
 </div>
@@ -307,6 +234,6 @@ mission_2026:
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:000000,30:050508,60:00D4FF,100:00F7FF"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=0:050508,40:0d1117,75:00d4ff,100:89f7fe"/>
 
 </div>
