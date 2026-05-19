@@ -71,7 +71,10 @@ class RyanHenri {
   public metas = "Construir sistemas resilientes, interfaces fluidas e crescer constantemente 🚀";
 }
 
-<div align="center">
+```
+# ⚡ Hard Skills & Ecossistema Técnico
+<div
+align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,python,html,css,tailwind,postgres,mysql,firebase,git,github,vscode,figma,linux,windows&theme=dark&perline=9"/>
 </div>
 
