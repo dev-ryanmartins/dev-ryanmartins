@@ -83,7 +83,8 @@ const RyanHenri = {
 
 # 🧩 Projetos em Destaque
 
-## 📊 GestorPro
+## 📊 RedeVita
+
 
 Sistema completo de gestão empresarial com foco em eficiência operacional, arquitetura robusta e experiência do usuário.
 
