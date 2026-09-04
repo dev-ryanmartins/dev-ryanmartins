@@ -51,7 +51,7 @@ Gosto de transformar ideias em produtos completos — da arquitetura da API à e
 <img src="https://skillicons.dev/icons?i=nodejs,express,python,flask,go,postgres,mysql,firebase&theme=dark" alt="Backend and data stack" />
 
 ### Ferramentas & Infraestrutura
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker, powershell&theme=dark" alt="Tools and infrastructure stack" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,powershell&theme=dark" alt="Tools and infrastructure stack" />
 
 </div>
 
@@ -69,7 +69,7 @@ Gosto de transformar ideias em produtos completos — da arquitetura da API à e
     </td>
     <td width="50%" valign="top">
       <h3>🏠 NexoCasa</h3>
-      <p>Projeto em TypeScript voltado à criação de experiências digitais modernas e organizadas.</p>
+      <p>Projeto em TypeScript com desenvolvimento em andamento.</p>
       <p><strong>TypeScript</strong></p>
       <a href="https://github.com/dev-ryanmartins/nexocasa">Ver repositório →</a>
     </td>
@@ -77,7 +77,7 @@ Gosto de transformar ideias em produtos completos — da arquitetura da API à e
   <tr>
     <td width="50%" valign="top">
       <h3>⚙️ Harborline Messaging API</h3>
-      <p>API de mensageria construída para explorar serviços performáticos e comunicação backend.</p>
+      <p>API de mensageria desenvolvida em Go.</p>
       <p><strong>Go</strong></p>
       <a href="https://github.com/dev-ryanmartins/harborline-messaging-api">Ver repositório →</a>
     </td>
