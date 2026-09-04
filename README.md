@@ -26,13 +26,13 @@
 
 ## 👋 Sobre mim
 
-Sou **Ryan Henri Martins**, estudante de **Análise e Desenvolvimento de Sistemas** na UNISO e estagiário de Tecnologia da Informação na Prefeitura Municipal de Capela do Alto.
+Sou **Ryan Henri Martins**, estudante de **Análise e Desenvolvimento de Sistemas** na UNISO e desenvolvedor focado em criar soluções digitais úteis, bem estruturadas e visualmente consistentes.
 
-Gosto de transformar ideias em produtos completos — da arquitetura da API à experiência visual da interface. Atualmente, meus estudos e projetos se concentram em **desenvolvimento Full Stack, React + TypeScript, APIs REST, infraestrutura de redes, segurança web e UI/UX**.
+Minha jornada combina desenvolvimento Full Stack, UI/UX e infraestrutura. Gosto de transformar ideias em produtos completos — da arquitetura da API à experiência visual da interface. Meus estudos e projetos se concentram em **React + TypeScript, APIs REST, infraestrutura de redes, segurança web e design de produtos**.
 
 <div align="center">
 
-| 🎓 Formação | 📍 Localização | 🔭 Foco atual |
+| 🎓 Formação | 📍 Localização | 🚀 Direção |
 |:---:|:---:|:---:|
 | Análise e Desenvolvimento de Sistemas | São Paulo, Brasil 🇧🇷 | Software, Design & Infra |
 
