@@ -7,7 +7,7 @@
 **TypeScript · Node.js · Python · Go · C#/.NET**
 
 [![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:ryanhenri085@outlook.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henri-martins-153341389/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryan-martins-153341389/)
 
 </div>
 
@@ -48,4 +48,4 @@ Estou em busca de uma oportunidade como **Desenvolvedor Backend Júnior** ou **D
 Estou aberto a oportunidades, projetos e conexões na área de tecnologia.
 
 - E-mail: [ryanhenri085@outlook.com](mailto:ryanhenri085@outlook.com)
-- LinkedIn: [henri-martins-153341389](https://www.linkedin.com/in/henri-martins-153341389/)
+- LinkedIn: [henri-martins-153341389](https://www.linkedin.com/in/ryan-martins-153341389/)
